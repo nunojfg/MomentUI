@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "MomentUI"
-  s.version          = "1.1"
+  s.version          = "1.2"
   s.summary          = "MomentCam.io UI framework"
   s.homepage         = "https://github.com/nunojfg/MomentUI"
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
