@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
   s.name             = "MomentUI"
-  s.version          = "1.0"
+  s.version          = "1.1"
   s.summary          = "MomentCam.io UI framework"
   s.homepage         = "https://github.com/nunojfg/MomentUI"
-  s.license          = 'BSD'
+  s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { "NunoGoncalves" => "nunojfg@gmail.com" }
   s.source           = { :git => "https://github.com/nunojfg/MomentUI.git", :tag => s.version }
   s.social_media_url = 'https://twitter.com/nunojfg'
